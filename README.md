@@ -68,13 +68,9 @@ Pixel Runner/
 
 ---
 
-## 🖼️ Gameplay GIF (Optional)
+## 🖼️ Gameplay GIF
 
-*(Consider adding a GIF showcasing the gameplay here)*
-
-```markdown
-![Pixel Runner Gameplay](./gameplay.gif) 
-```
+https://github.com/user-attachments/assets/6884fe25-d0f5-43bf-ba1a-9c17c31b15d2
 
 ---
 
