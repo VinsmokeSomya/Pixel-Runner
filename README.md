@@ -1,4 +1,14 @@
-# 🏃 Pixel Runner
+<div align="center">
+  🚩🧡🕉️ || जय श्री राम || 🕉️🧡🚩
+</div>
+
+---
+
+<div align="center">
+  <h1 style="border-bottom: none;">
+    🏃 Pixel Runner
+  </h1>
+</div> 
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
 [![Made with Pygame](https://img.shields.io/badge/Made%20with-Pygame-1f425f.svg)](https://www.pygame.org)
